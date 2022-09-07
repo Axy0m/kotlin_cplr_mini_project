@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+
+    <string name="google_maps_api_key"></string>
+
+    <string name="edit_text_hint_title">Titre</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">Ajouter une image</string>
+    <string name="btn_text_save">Sauvegarder</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">Pas de "Happy Place" sauvegardé - Ajoutez-en.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">Vue sur la carte</string>
+    <string name="add_place_select_current_location_text">Choisir la location actuelle</string>
+</resources>
